@@ -26,6 +26,8 @@ inconvenient for quick comments.
 
 ## REQUIREMENTS:
 
+* kramdown
+* sanitize
 * Tested with MRI (official CRuby), Rubinius and JRuby.
 
 ## INSTALLATION:
